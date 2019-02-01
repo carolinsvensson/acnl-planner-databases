@@ -32,6 +32,7 @@ I normally use [Notepad++](https://notepad-plus-plus.org/download/v7.6.3.html) t
 * Open up the GitHub Desktop application again
 * You are now able to see the changes you have made. If you want to, you can write a title and description of what you have changed (ex Added the missing item Vaulting Horse)
 * Press the *Commit to develop* button
+* Press the *Push origin* button
 
 If you can't figure it out and need help, send me an email and we'll get you set up!
 csvenssonapps@gmail.com
